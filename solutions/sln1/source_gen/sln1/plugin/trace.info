@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/6329021646629104954:jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="ExtensionDescriptor.java">
+      <unit at="9,0,18,0" name="sln1.plugin.ExtensionDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:09afc09b-459f-43c4-ae98-6576c1ddfcd9(sln1.plugin)/375881913605463673">
+    <file name="Sln1_ApplicationPlugin.java">
+      <node id="375881913605463673" at="10,0,11,0" concept="2" trace="myId" />
+      <node id="375881913605463673" at="16,27,17,16" concept="6" />
+      <node id="375881913605463673" at="20,30,21,29" concept="7" />
+      <node id="375881913605463673" at="22,54,23,13" concept="7" />
+      <node id="375881913605463673" at="12,0,14,0" concept="0" trace="Sln1_ApplicationPlugin#()V" />
+      <node id="375881913605463673" at="26,0,29,0" concept="4" trace="adjustRegularGroups#()V" />
+      <node id="375881913605463673" at="15,0,19,0" concept="4" trace="getId#()Lcom/intellij/openapi/extensions/PluginId;" />
+      <node id="375881913605463673" at="20,0,26,0" concept="4" trace="createGroups#()V" />
+      <scope id="375881913605463673" at="12,35,12,35" />
+      <scope id="375881913605463673" at="16,27,17,16" />
+      <scope id="375881913605463673" at="26,37,27,91" />
+      <scope id="375881913605463673" at="12,0,14,0" />
+      <scope id="375881913605463673" at="26,0,29,0" />
+      <scope id="375881913605463673" at="15,0,19,0" />
+      <scope id="375881913605463673" at="20,30,24,63" />
+      <scope id="375881913605463673" at="20,0,26,0" />
+      <unit id="375881913605463673" at="9,0,30,0" name="sln1.plugin.Sln1_ApplicationPlugin" />
+    </file>
+  </root>
+  <root nodeRef="r:09afc09b-459f-43c4-ae98-6576c1ddfcd9(sln1.plugin)/375881913606409520">
+    <file name="ShowExtensionContributors_Action.java">
+      <node id="375881913606409520" at="20,0,21,0" concept="8" trace="LOG" />
+      <node id="375881913606409520" at="21,0,22,0" concept="8" trace="ICON" />
+      <node id="375881913606409520" at="23,45,24,52" concept="9" />
+      <node id="375881913606409520" at="24,52,25,35" concept="1" />
+      <node id="375881913606409520" at="25,35,26,52" concept="1" />
+      <node id="375881913606409520" at="29,32,30,16" concept="6" />
+      <node id="375881913606419470" at="33,87,34,108" concept="5" />
+      <node id="375881913606921059" at="34,108,35,94" concept="1" />
+      <node id="375881913606983362" at="35,94,36,16" concept="6" />
+      <node id="375881913606409520" at="39,89,40,85" concept="1" />
+      <node id="375881913607423153" at="43,96,44,99" concept="5" />
+      <node id="375881913607913052" at="45,60,46,116" concept="1" />
+      <node id="375881913607954634" at="49,46,50,133" concept="1" />
+      <node id="375881913607394133" at="54,72,55,74" concept="6" />
+      <node id="375881913607427955" at="44,99,47,5" concept="3" />
+      <node id="375881913607954241" at="49,0,52,0" concept="4" trace="visit#(Ljava/lang/String;)V" />
+      <node id="375881913607394139" at="54,0,57,0" concept="4" trace="getContributions#(Lcom/intellij/openapi/actionSystem/AnActionEvent;)Ljava/lang/Iterable;" />
+      <node id="375881913606409520" at="28,0,32,0" concept="4" trace="isDumbAware#()Z" />
+      <node id="375881913606409520" at="38,0,42,0" concept="4" trace="doUpdate#(Lcom/intellij/openapi/actionSystem/AnActionEvent;Ljava/util/Map;)V" />
+      <node id="375881913606409520" at="23,0,28,0" concept="0" trace="ShowExtensionContributors_Action#()V" />
+      <node id="375881913607953352" at="47,5,52,7" concept="1" />
+      <node id="375881913606409520" at="32,0,38,0" concept="4" trace="isApplicable#(Lcom/intellij/openapi/actionSystem/AnActionEvent;Ljava/util/Map;)Z" />
+      <node id="375881913606409520" at="42,0,54,0" concept="4" trace="doExecute#(Lcom/intellij/openapi/actionSystem/AnActionEvent;Ljava/util/Map;)V" />
+      <scope id="375881913606409520" at="29,32,30,16" />
+      <scope id="375881913606409520" at="39,89,40,85" />
+      <scope id="375881913607427977" at="45,60,46,116" />
+      <scope id="375881913607954242" at="49,46,50,133" />
+      <scope id="375881913607394132" at="54,72,55,74" />
+      <scope id="375881913606409520" at="23,45,26,52" />
+      <scope id="375881913606409571" at="33,87,36,16">
+        <var name="size" id="375881913606419473" />
+      </scope>
+      <scope id="375881913607954241" at="49,0,52,0">
+        <var name="contribution" id="375881913607954241" />
+      </scope>
+      <scope id="375881913607394139" at="54,0,57,0">
+        <var name="event" id="375881913607394139" />
+      </scope>
+      <scope id="375881913606409520" at="28,0,32,0" />
+      <scope id="375881913606409520" at="38,0,42,0">
+        <var name="_params" id="375881913606409520" />
+        <var name="event" id="375881913606409520" />
+      </scope>
+      <scope id="375881913606409520" at="23,0,28,0" />
+      <scope id="375881913606409520" at="32,0,38,0">
+        <var name="_params" id="375881913606409520" />
+        <var name="event" id="375881913606409520" />
+      </scope>
+      <scope id="375881913606409520" at="43,96,52,7">
+        <var name="contributions" id="375881913607423154" />
+      </scope>
+      <scope id="375881913606409520" at="42,0,54,0">
+        <var name="_params" id="375881913606409520" />
+        <var name="event" id="375881913606409520" />
+      </scope>
+      <unit id="375881913607954241" at="48,54,52,5" name="sln1.plugin.ShowExtensionContributors_Action$1" />
+      <unit id="375881913606409520" at="19,0,58,0" name="sln1.plugin.ShowExtensionContributors_Action" />
+    </file>
+    <file name="Sln1_ApplicationPlugin.java">
+      <node id="375881913606409520" at="21,29,22,54" concept="1" />
+    </file>
+  </root>
+  <root nodeRef="r:09afc09b-459f-43c4-ae98-6576c1ddfcd9(sln1.plugin)/375881913607957143">
+    <file name="ExtensionContributionGroup_ActionGroup.java">
+      <node id="375881913607957143" at="10,0,11,0" concept="8" trace="ID" />
+      <node id="375881913607957143" at="12,84,13,52" concept="9" />
+      <node id="375881913607957143" at="13,52,14,25" concept="1" />
+      <node id="375881913607957143" at="14,25,15,20" concept="1" />
+      <node id="375881913607957187" at="15,20,16,106" concept="1" />
+      <node id="375881913607957143" at="12,0,18,0" concept="0" trace="ExtensionContributionGroup_ActionGroup#(Ljetbrains/mps/workbench/action/ApplicationPlugin;)V" />
+      <scope id="375881913607957143" at="12,84,16,106" />
+      <scope id="375881913607957143" at="12,0,18,0">
+        <var name="plugin" id="375881913607957143" />
+      </scope>
+      <unit id="375881913607957143" at="9,0,19,0" name="sln1.plugin.ExtensionContributionGroup_ActionGroup" />
+    </file>
+    <file name="Sln1_ApplicationPlugin.java">
+      <node id="375881913607957143" at="23,13,24,63" concept="1" />
+      <node id="375881913607957189" at="26,37,27,91" concept="1" />
+    </file>
+  </root>
+</debug-info>
+

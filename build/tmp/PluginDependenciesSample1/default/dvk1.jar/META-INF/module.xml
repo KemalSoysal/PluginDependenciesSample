@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module namespace="dvk1" type="devkit" uuid="c456ee9c-5828-4db1-aa8a-c30040c96c31">
+  <dependencies />
+  <uses />
+  <sources descriptor="dvk1.devkit" jar="." />
+</module>

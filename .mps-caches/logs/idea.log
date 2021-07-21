@@ -1,0 +1,495 @@
+2021-07-21 14:30:21,318 [      0]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating MPS environment 
+2021-07-21 14:30:21,520 [    202]  ERROR - jetbrains.mps.tool.environment.EnvironmentBase - The macro 'samples_home' to non-existent location 
+2021-07-21 14:30:21,532 [    214]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Initializing libraries 
+2021-07-21 14:30:21,551 [    233]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:30:21,551 [    233]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:30:21,557 [    239]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 173 libraries 
+2021-07-21 14:30:23,801 [   2483]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished 
+2021-07-21 14:30:24,750 [   3432]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,945 s 
+2021-07-21 14:30:24,773 [   3455]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:30:25,054 [   3736]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating an empty project 
+2021-07-21 14:30:25,056 [   3738]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Opening a new project 
+2021-07-21 14:30:25,061 [   3743]   INFO - jetbrains.mps.project.ProjectModuleLoader - Loading modules... 
+2021-07-21 14:30:25,061 [   3743]   INFO - jetbrains.mps.project.ProjectModuleLoader - Modules are loaded: 0 new; 0 removed 
+2021-07-21 14:30:25,061 [   3743]   INFO - jetbrains.mps.project.ProjectBase - Project 'mpstemp3378278928791167029' is opened 
+2021-07-21 14:30:25,152 [   3834]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,049 s 
+2021-07-21 14:30:25,170 [   3852]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:30:29,221 [   7903]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:30:29,222 [   7904]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:30:29,669 [   8351]   INFO - jetbrains.mps.internal.make.runtime.script.Script - No input. Skipping optional target 'jetbrains.mps.make.facets.ReloadClasses.reloadClasses'. 
+2021-07-21 14:30:30,657 [   9339]   INFO - jetbrains.mps.internal.make.runtime.script.Script - No input. Skipping optional target 'jetbrains.mps.make.facets.ReloadClasses.reloadClasses'. 
+2021-07-21 14:30:30,693 [   9375]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,028 s 
+2021-07-21 14:30:30,713 [   9395]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:30:40,782 [  19464]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,002 s 
+2021-07-21 14:30:40,782 [  19464]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:31:11,092 [      0]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/dvk1.plugin.zip/PluginDependenciesSample-d-1 
+2021-07-21 14:31:11,093 [      1]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/l1.plugin.zip/PluginDependenciesSample-l-1 
+2021-07-21 14:31:11,093 [      1]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/sln1.plugin.zip/PluginDependenciesSample-s-1 
+2021-07-21 14:31:11,093 [      1]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating MPS environment 
+2021-07-21 14:31:11,212 [    120]  ERROR - jetbrains.mps.tool.environment.EnvironmentBase - The macro 'samples_home' to non-existent location 
+2021-07-21 14:31:11,219 [    127]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Initializing libraries 
+2021-07-21 14:31:11,242 [    150]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:31:11,242 [    150]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:31:11,248 [    156]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 172 libraries 
+2021-07-21 14:31:13,121 [   2029]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished 
+2021-07-21 14:31:14,092 [   3000]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,965 s 
+2021-07-21 14:31:14,143 [   3051]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:31:14,420 [   3328]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating an empty project 
+2021-07-21 14:31:14,423 [   3331]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Opening a new project 
+2021-07-21 14:31:14,427 [   3335]   INFO - jetbrains.mps.project.ProjectModuleLoader - Loading modules... 
+2021-07-21 14:31:14,428 [   3336]   INFO - jetbrains.mps.project.ProjectModuleLoader - Modules are loaded: 0 new; 0 removed 
+2021-07-21 14:31:14,428 [   3336]   INFO - jetbrains.mps.project.ProjectBase - Project 'mpstemp13630451265714034861' is opened 
+2021-07-21 14:31:14,532 [   3440]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,064 s 
+2021-07-21 14:31:14,556 [   3464]   WARN - jetbrains.mps.classloading.ModulesWatcher - 1 modules are marked as invalid roots for class loading out of 252 modules [totally in the repository]: 
+2021-07-21 14:31:14,556 [   3464]   WARN - jetbrains.mps.classloading.ModulesWatcher - sln2 [solution] has got an absent dependency problem and therefore was marked invalid for class loading: The dependency in sln2 [solution] cannot be resolved {Default} a6baa04a-4917-4b7b-b102-369cd8706f4a(sln1) 
+2021-07-21 14:31:14,556 [   3464]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 1 modules are marked invalid for class loading: 
+2021-07-21 14:31:14,556 [   3464]   INFO - jetbrains.mps.classloading.ModulesWatcher - 667bdade-b140-4390-b445-fb31fe457859(sln2) 
+2021-07-21 14:31:14,849 [   3757]   WARN - jetbrains.mps.smodel.SLanguageHierarchy - The language 'l1' is not deployed 
+2021-07-21 14:31:16,649 [   5557]  ERROR - jetbrains.mps.generator.impl.plan.GenerationPlan - Model l2.behavior uses language l1 which is missing (likely is not yet generated or is a bootstrap dependency) 
+2021-07-21 14:31:16,891 [   5799]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:31:16,892 [   5800]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:31:17,247 [   6155]   WARN - jetbrains.mps.text.impl.TextGenRegistry - No language for concept l1.structure.NoOp, while looking for textgen descriptor. 
+2021-07-21 14:31:17,369 [   6277]   INFO - jetbrains.mps.make.ModuleMaker - Cycle #1: [[l2]] 
+2021-07-21 14:31:17,410 [   6318]   INFO - jetbrains.mps.make.ModuleMaker - Compiler in use: JavacTool 
+2021-07-21 14:31:17,731 [   6639]  ERROR -                    JavaCompile - Compilation problems 
+2021-07-21 14:31:17,731 [   6639]  ERROR - jetbrains.mps.make.ModuleMaker - Compilation problems 
+2021-07-21 14:31:17,734 [   6642]  ERROR -                    JavaCompile - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:31:17,734 [   6642]  ERROR - jetbrains.mps.make.ModuleMaker - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:31:17,735 [   6643]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:31:17,735 [   6643]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:31:17,735 [   6643]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:31:17,735 [   6643]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:31:17,735 [   6643]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:31:17,735 [   6643]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:31:17,735 [   6643]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:31:17,735 [   6643]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:31:17,736 [   6644]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:31:17,736 [   6644]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:31:17,736 [   6644]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:31:17,736 [   6644]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:31:17,736 [   6644]   INFO - jetbrains.mps.make.ModuleMaker - Modules: l2;
+Classpath: com.sun.tools.javac.file.JavacFileManager$$Lambda$350/0x00000008007af440@2231f1f7
+ 
+2021-07-21 14:31:17,767 [   6675]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,024 s 
+2021-07-21 14:31:17,784 [   6692]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:32:14,476 [      0]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/dvk1.plugin.zip/PluginDependenciesSample-d-1 
+2021-07-21 14:32:14,477 [      1]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/l1.plugin.zip/PluginDependenciesSample-l-1 
+2021-07-21 14:32:14,477 [      1]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/sln1.plugin.zip/PluginDependenciesSample-s-1 
+2021-07-21 14:32:14,478 [      2]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating MPS environment 
+2021-07-21 14:32:14,592 [    116]  ERROR - jetbrains.mps.tool.environment.EnvironmentBase - The macro 'samples_home' to non-existent location 
+2021-07-21 14:32:14,600 [    124]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Initializing libraries 
+2021-07-21 14:32:14,621 [    145]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:32:14,621 [    145]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:32:14,626 [    150]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 172 libraries 
+2021-07-21 14:32:16,601 [   2125]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished 
+2021-07-21 14:32:17,769 [   3293]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 1,163 s 
+2021-07-21 14:32:17,799 [   3323]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:32:18,120 [   3644]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating an empty project 
+2021-07-21 14:32:18,122 [   3646]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Opening a new project 
+2021-07-21 14:32:18,125 [   3649]   INFO - jetbrains.mps.project.ProjectModuleLoader - Loading modules... 
+2021-07-21 14:32:18,126 [   3650]   INFO - jetbrains.mps.project.ProjectModuleLoader - Modules are loaded: 0 new; 0 removed 
+2021-07-21 14:32:18,126 [   3650]   INFO - jetbrains.mps.project.ProjectBase - Project 'mpstemp8338124323130801549' is opened 
+2021-07-21 14:32:18,220 [   3744]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,057 s 
+2021-07-21 14:32:18,243 [   3767]   WARN - jetbrains.mps.classloading.ModulesWatcher - 1 modules are marked as invalid roots for class loading out of 252 modules [totally in the repository]: 
+2021-07-21 14:32:18,244 [   3768]   WARN - jetbrains.mps.classloading.ModulesWatcher - sln2 [solution] has got an absent dependency problem and therefore was marked invalid for class loading: The dependency in sln2 [solution] cannot be resolved {Default} a6baa04a-4917-4b7b-b102-369cd8706f4a(sln1) 
+2021-07-21 14:32:18,244 [   3768]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 1 modules are marked invalid for class loading: 
+2021-07-21 14:32:18,244 [   3768]   INFO - jetbrains.mps.classloading.ModulesWatcher - 667bdade-b140-4390-b445-fb31fe457859(sln2) 
+2021-07-21 14:32:18,523 [   4047]   WARN - jetbrains.mps.smodel.SLanguageHierarchy - The language 'l1' is not deployed 
+2021-07-21 14:32:20,257 [   5781]  ERROR - jetbrains.mps.generator.impl.plan.GenerationPlan - Model l2.behavior uses language l1 which is missing (likely is not yet generated or is a bootstrap dependency) 
+2021-07-21 14:32:20,484 [   6008]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:32:20,485 [   6009]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:32:20,842 [   6366]   WARN - jetbrains.mps.text.impl.TextGenRegistry - No language for concept l1.structure.NoOp, while looking for textgen descriptor. 
+2021-07-21 14:32:20,964 [   6488]   INFO - jetbrains.mps.make.ModuleMaker - Cycle #1: [[l2]] 
+2021-07-21 14:32:21,002 [   6526]   INFO - jetbrains.mps.make.ModuleMaker - Compiler in use: JavacTool 
+2021-07-21 14:32:21,325 [   6849]  ERROR -                    JavaCompile - Compilation problems 
+2021-07-21 14:32:21,325 [   6849]  ERROR - jetbrains.mps.make.ModuleMaker - Compilation problems 
+2021-07-21 14:32:21,329 [   6853]  ERROR -                    JavaCompile - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:32:21,330 [   6854]  ERROR - jetbrains.mps.make.ModuleMaker - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:32:21,330 [   6854]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:32:21,330 [   6854]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:32:21,330 [   6854]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:32:21,330 [   6854]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:32:21,331 [   6855]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:32:21,331 [   6855]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:32:21,331 [   6855]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:32:21,331 [   6855]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:32:21,331 [   6855]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:32:21,331 [   6855]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:32:21,331 [   6855]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:32:21,331 [   6855]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:32:21,331 [   6855]   INFO - jetbrains.mps.make.ModuleMaker - Modules: l2;
+Classpath: com.sun.tools.javac.file.JavacFileManager$$Lambda$350/0x00000008007af440@480318c2
+ 
+2021-07-21 14:32:21,370 [   6894]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,030 s 
+2021-07-21 14:32:21,392 [   6916]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:34:00,151 [      0]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/dvk1.plugin.zip/PluginDependenciesSample-d-1 
+2021-07-21 14:34:00,151 [      0]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/l1.plugin.zip/PluginDependenciesSample-l-1 
+2021-07-21 14:34:00,151 [      0]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/sln1.plugin.zip/PluginDependenciesSample-s-1 
+2021-07-21 14:34:00,152 [      1]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating MPS environment 
+2021-07-21 14:34:00,278 [    127]  ERROR - jetbrains.mps.tool.environment.EnvironmentBase - The macro 'samples_home' to non-existent location 
+2021-07-21 14:34:00,288 [    137]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Initializing libraries 
+2021-07-21 14:34:00,311 [    160]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:34:00,311 [    160]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:34:00,317 [    166]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 172 libraries 
+2021-07-21 14:34:02,283 [   2132]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished 
+2021-07-21 14:34:03,465 [   3314]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 1,176 s 
+2021-07-21 14:34:03,493 [   3342]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:34:03,806 [   3655]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating an empty project 
+2021-07-21 14:34:03,808 [   3657]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Opening a new project 
+2021-07-21 14:34:03,812 [   3661]   INFO - jetbrains.mps.project.ProjectModuleLoader - Loading modules... 
+2021-07-21 14:34:03,813 [   3662]   INFO - jetbrains.mps.project.ProjectModuleLoader - Modules are loaded: 0 new; 0 removed 
+2021-07-21 14:34:03,813 [   3662]   INFO - jetbrains.mps.project.ProjectBase - Project 'mpstemp7897782187581445133' is opened 
+2021-07-21 14:34:03,898 [   3747]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,050 s 
+2021-07-21 14:34:03,916 [   3765]   WARN - jetbrains.mps.classloading.ModulesWatcher - 1 modules are marked as invalid roots for class loading out of 252 modules [totally in the repository]: 
+2021-07-21 14:34:03,917 [   3766]   WARN - jetbrains.mps.classloading.ModulesWatcher - sln2 [solution] has got an absent dependency problem and therefore was marked invalid for class loading: The dependency in sln2 [solution] cannot be resolved {Default} a6baa04a-4917-4b7b-b102-369cd8706f4a(sln1) 
+2021-07-21 14:34:03,917 [   3766]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 1 modules are marked invalid for class loading: 
+2021-07-21 14:34:03,917 [   3766]   INFO - jetbrains.mps.classloading.ModulesWatcher - 667bdade-b140-4390-b445-fb31fe457859(sln2) 
+2021-07-21 14:34:04,196 [   4045]   WARN - jetbrains.mps.smodel.SLanguageHierarchy - The language 'l1' is not deployed 
+2021-07-21 14:34:05,953 [   5802]  ERROR - jetbrains.mps.generator.impl.plan.GenerationPlan - Model l2.behavior uses language l1 which is missing (likely is not yet generated or is a bootstrap dependency) 
+2021-07-21 14:34:06,185 [   6034]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:34:06,187 [   6036]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:34:06,535 [   6384]   WARN - jetbrains.mps.text.impl.TextGenRegistry - No language for concept l1.structure.NoOp, while looking for textgen descriptor. 
+2021-07-21 14:34:06,652 [   6501]   INFO - jetbrains.mps.make.ModuleMaker - Cycle #1: [[l2]] 
+2021-07-21 14:34:06,691 [   6540]   INFO - jetbrains.mps.make.ModuleMaker - Compiler in use: JavacTool 
+2021-07-21 14:34:07,053 [   6902]  ERROR -                    JavaCompile - Compilation problems 
+2021-07-21 14:34:07,053 [   6902]  ERROR - jetbrains.mps.make.ModuleMaker - Compilation problems 
+2021-07-21 14:34:07,056 [   6905]  ERROR -                    JavaCompile - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:34:07,057 [   6906]  ERROR - jetbrains.mps.make.ModuleMaker - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:34:07,057 [   6906]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:34:07,058 [   6907]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:34:07,058 [   6907]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:34:07,058 [   6907]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:34:07,058 [   6907]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:34:07,058 [   6907]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:34:07,058 [   6907]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:34:07,058 [   6907]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:34:07,058 [   6907]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:34:07,058 [   6907]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:34:07,058 [   6907]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:34:07,058 [   6907]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:34:07,058 [   6907]   INFO - jetbrains.mps.make.ModuleMaker - Modules: l2;
+Classpath: com.sun.tools.javac.file.JavacFileManager$$Lambda$350/0x00000008007af440@480318c2
+ 
+2021-07-21 14:34:07,095 [   6944]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,028 s 
+2021-07-21 14:34:07,114 [   6963]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:35:25,935 [      0]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/dvk1.plugin.zip/PluginDependenciesSample-d-1 
+2021-07-21 14:35:25,935 [      0]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/l1.plugin.zip/PluginDependenciesSample-l-1 
+2021-07-21 14:35:25,935 [      0]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/sln1.plugin.zip/PluginDependenciesSample-s-1 
+2021-07-21 14:35:25,936 [      1]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating MPS environment 
+2021-07-21 14:35:26,058 [    123]  ERROR - jetbrains.mps.tool.environment.EnvironmentBase - The macro 'samples_home' to non-existent location 
+2021-07-21 14:35:26,067 [    132]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Initializing libraries 
+2021-07-21 14:35:26,093 [    158]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:35:26,093 [    158]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:35:26,098 [    163]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 172 libraries 
+2021-07-21 14:35:28,065 [   2130]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished 
+2021-07-21 14:35:29,387 [   3452]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 1,317 s 
+2021-07-21 14:35:29,439 [   3504]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:35:29,749 [   3814]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating an empty project 
+2021-07-21 14:35:29,751 [   3816]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Opening a new project 
+2021-07-21 14:35:29,756 [   3821]   INFO - jetbrains.mps.project.ProjectModuleLoader - Loading modules... 
+2021-07-21 14:35:29,757 [   3822]   INFO - jetbrains.mps.project.ProjectModuleLoader - Modules are loaded: 0 new; 0 removed 
+2021-07-21 14:35:29,757 [   3822]   INFO - jetbrains.mps.project.ProjectBase - Project 'mpstemp15660219165468042841' is opened 
+2021-07-21 14:35:29,865 [   3930]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,065 s 
+2021-07-21 14:35:29,891 [   3956]   WARN - jetbrains.mps.classloading.ModulesWatcher - 1 modules are marked as invalid roots for class loading out of 252 modules [totally in the repository]: 
+2021-07-21 14:35:29,891 [   3956]   WARN - jetbrains.mps.classloading.ModulesWatcher - sln2 [solution] has got an absent dependency problem and therefore was marked invalid for class loading: The dependency in sln2 [solution] cannot be resolved {Default} a6baa04a-4917-4b7b-b102-369cd8706f4a(sln1) 
+2021-07-21 14:35:29,891 [   3956]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 1 modules are marked invalid for class loading: 
+2021-07-21 14:35:29,891 [   3956]   INFO - jetbrains.mps.classloading.ModulesWatcher - 667bdade-b140-4390-b445-fb31fe457859(sln2) 
+2021-07-21 14:35:30,213 [   4278]   WARN - jetbrains.mps.smodel.SLanguageHierarchy - The language 'l1' is not deployed 
+2021-07-21 14:35:31,949 [   6014]  ERROR - jetbrains.mps.generator.impl.plan.GenerationPlan - Model l2.behavior uses language l1 which is missing (likely is not yet generated or is a bootstrap dependency) 
+2021-07-21 14:35:32,186 [   6251]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:35:32,187 [   6252]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:35:32,551 [   6616]   WARN - jetbrains.mps.text.impl.TextGenRegistry - No language for concept l1.structure.NoOp, while looking for textgen descriptor. 
+2021-07-21 14:35:32,671 [   6736]   INFO - jetbrains.mps.make.ModuleMaker - Cycle #1: [[l2]] 
+2021-07-21 14:35:32,723 [   6788]   INFO - jetbrains.mps.make.ModuleMaker - Compiler in use: JavacTool 
+2021-07-21 14:35:33,070 [   7135]  ERROR -                    JavaCompile - Compilation problems 
+2021-07-21 14:35:33,070 [   7135]  ERROR - jetbrains.mps.make.ModuleMaker - Compilation problems 
+2021-07-21 14:35:33,074 [   7139]  ERROR -                    JavaCompile - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:35:33,074 [   7139]  ERROR - jetbrains.mps.make.ModuleMaker - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:35:33,075 [   7140]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:35:33,075 [   7140]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:35:33,075 [   7140]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:35:33,075 [   7140]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:35:33,075 [   7140]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:35:33,075 [   7140]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:35:33,075 [   7140]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:35:33,075 [   7140]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:35:33,075 [   7140]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:35:33,075 [   7140]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:35:33,075 [   7140]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:35:33,075 [   7140]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:35:33,076 [   7141]   INFO - jetbrains.mps.make.ModuleMaker - Modules: l2;
+Classpath: com.sun.tools.javac.file.JavacFileManager$$Lambda$350/0x00000008007af440@54c497f2
+ 
+2021-07-21 14:35:33,108 [   7173]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,024 s 
+2021-07-21 14:35:33,125 [   7190]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:36:14,169 [      0]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/dvk1.plugin.zip/PluginDependenciesSample-d-1 
+2021-07-21 14:36:14,170 [      1]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/l1.plugin.zip/PluginDependenciesSample-l-1 
+2021-07-21 14:36:14,170 [      1]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/sln1.plugin.zip/PluginDependenciesSample-s-1 
+2021-07-21 14:36:14,171 [      2]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating MPS environment 
+2021-07-21 14:36:14,304 [    135]  ERROR - jetbrains.mps.tool.environment.EnvironmentBase - The macro 'samples_home' to non-existent location 
+2021-07-21 14:36:14,314 [    145]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Initializing libraries 
+2021-07-21 14:36:14,336 [    167]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:36:14,337 [    168]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:36:14,342 [    173]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 172 libraries 
+2021-07-21 14:36:16,300 [   2131]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished 
+2021-07-21 14:36:17,122 [   2953]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,817 s 
+2021-07-21 14:36:17,146 [   2977]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:36:17,415 [   3246]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating an empty project 
+2021-07-21 14:36:17,417 [   3248]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Opening a new project 
+2021-07-21 14:36:17,420 [   3251]   INFO - jetbrains.mps.project.ProjectModuleLoader - Loading modules... 
+2021-07-21 14:36:17,420 [   3251]   INFO - jetbrains.mps.project.ProjectModuleLoader - Modules are loaded: 0 new; 0 removed 
+2021-07-21 14:36:17,421 [   3252]   INFO - jetbrains.mps.project.ProjectBase - Project 'mpstemp9048455769878212195' is opened 
+2021-07-21 14:36:17,510 [   3341]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,053 s 
+2021-07-21 14:36:17,531 [   3362]   WARN - jetbrains.mps.classloading.ModulesWatcher - 1 modules are marked as invalid roots for class loading out of 252 modules [totally in the repository]: 
+2021-07-21 14:36:17,532 [   3363]   WARN - jetbrains.mps.classloading.ModulesWatcher - sln2 [solution] has got an absent dependency problem and therefore was marked invalid for class loading: The dependency in sln2 [solution] cannot be resolved {Default} a6baa04a-4917-4b7b-b102-369cd8706f4a(sln1) 
+2021-07-21 14:36:17,532 [   3363]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 1 modules are marked invalid for class loading: 
+2021-07-21 14:36:17,532 [   3363]   INFO - jetbrains.mps.classloading.ModulesWatcher - 667bdade-b140-4390-b445-fb31fe457859(sln2) 
+2021-07-21 14:36:17,827 [   3658]   WARN - jetbrains.mps.smodel.SLanguageHierarchy - The language 'l1' is not deployed 
+2021-07-21 14:36:19,570 [   5401]  ERROR - jetbrains.mps.generator.impl.plan.GenerationPlan - Model l2.behavior uses language l1 which is missing (likely is not yet generated or is a bootstrap dependency) 
+2021-07-21 14:36:19,798 [   5629]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:36:19,799 [   5630]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:36:20,166 [   5997]   WARN - jetbrains.mps.text.impl.TextGenRegistry - No language for concept l1.structure.NoOp, while looking for textgen descriptor. 
+2021-07-21 14:36:20,289 [   6120]   INFO - jetbrains.mps.make.ModuleMaker - Cycle #1: [[l2]] 
+2021-07-21 14:36:20,332 [   6163]   INFO - jetbrains.mps.make.ModuleMaker - Compiler in use: JavacTool 
+2021-07-21 14:36:20,649 [   6480]  ERROR -                    JavaCompile - Compilation problems 
+2021-07-21 14:36:20,649 [   6480]  ERROR - jetbrains.mps.make.ModuleMaker - Compilation problems 
+2021-07-21 14:36:20,653 [   6484]  ERROR -                    JavaCompile - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:36:20,654 [   6485]  ERROR - jetbrains.mps.make.ModuleMaker - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:36:20,654 [   6485]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:36:20,655 [   6486]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:36:20,655 [   6486]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:36:20,655 [   6486]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:36:20,655 [   6486]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:36:20,655 [   6486]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:36:20,655 [   6486]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:36:20,655 [   6486]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:36:20,655 [   6486]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:36:20,655 [   6486]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:36:20,655 [   6486]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:36:20,655 [   6486]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:36:20,656 [   6487]   INFO - jetbrains.mps.make.ModuleMaker - Modules: l2;
+Classpath: com.sun.tools.javac.file.JavacFileManager$$Lambda$350/0x00000008007af440@53348b2d
+ 
+2021-07-21 14:36:20,692 [   6523]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,028 s 
+2021-07-21 14:36:20,712 [   6543]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:37:18,327 [      0]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/dvk1.plugin.zip/PluginDependenciesSample-d-1 
+2021-07-21 14:37:18,327 [      0]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/l1.plugin.zip/PluginDependenciesSample-l-1 
+2021-07-21 14:37:18,327 [      0]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/sln1.plugin.zip/PluginDependenciesSample-s-1 
+2021-07-21 14:37:18,328 [      1]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating MPS environment 
+2021-07-21 14:37:18,451 [    124]  ERROR - jetbrains.mps.tool.environment.EnvironmentBase - The macro 'samples_home' to non-existent location 
+2021-07-21 14:37:18,460 [    133]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Initializing libraries 
+2021-07-21 14:37:18,484 [    157]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:37:18,484 [    157]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:37:18,490 [    163]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 172 libraries 
+2021-07-21 14:37:20,459 [   2132]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished 
+2021-07-21 14:37:21,567 [   3240]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 1,104 s 
+2021-07-21 14:37:21,590 [   3263]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:37:21,868 [   3541]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating an empty project 
+2021-07-21 14:37:21,870 [   3543]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Opening a new project 
+2021-07-21 14:37:21,874 [   3547]   INFO - jetbrains.mps.project.ProjectModuleLoader - Loading modules... 
+2021-07-21 14:37:21,874 [   3547]   INFO - jetbrains.mps.project.ProjectModuleLoader - Modules are loaded: 0 new; 0 removed 
+2021-07-21 14:37:21,875 [   3548]   INFO - jetbrains.mps.project.ProjectBase - Project 'mpstemp17513866393816867329' is opened 
+2021-07-21 14:37:21,962 [   3635]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,051 s 
+2021-07-21 14:37:21,981 [   3654]   WARN - jetbrains.mps.classloading.ModulesWatcher - 1 modules are marked as invalid roots for class loading out of 252 modules [totally in the repository]: 
+2021-07-21 14:37:21,981 [   3654]   WARN - jetbrains.mps.classloading.ModulesWatcher - sln2 [solution] has got an absent dependency problem and therefore was marked invalid for class loading: The dependency in sln2 [solution] cannot be resolved {Default} a6baa04a-4917-4b7b-b102-369cd8706f4a(sln1) 
+2021-07-21 14:37:21,981 [   3654]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 1 modules are marked invalid for class loading: 
+2021-07-21 14:37:21,981 [   3654]   INFO - jetbrains.mps.classloading.ModulesWatcher - 667bdade-b140-4390-b445-fb31fe457859(sln2) 
+2021-07-21 14:37:22,269 [   3942]   WARN - jetbrains.mps.smodel.SLanguageHierarchy - The language 'l1' is not deployed 
+2021-07-21 14:37:24,029 [   5702]  ERROR - jetbrains.mps.generator.impl.plan.GenerationPlan - Model l2.behavior uses language l1 which is missing (likely is not yet generated or is a bootstrap dependency) 
+2021-07-21 14:37:24,258 [   5931]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:37:24,259 [   5932]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:37:24,627 [   6300]   WARN - jetbrains.mps.text.impl.TextGenRegistry - No language for concept l1.structure.NoOp, while looking for textgen descriptor. 
+2021-07-21 14:37:24,750 [   6423]   INFO - jetbrains.mps.make.ModuleMaker - Cycle #1: [[l2]] 
+2021-07-21 14:37:24,790 [   6463]   INFO - jetbrains.mps.make.ModuleMaker - Compiler in use: JavacTool 
+2021-07-21 14:37:25,103 [   6776]  ERROR -                    JavaCompile - Compilation problems 
+2021-07-21 14:37:25,103 [   6776]  ERROR - jetbrains.mps.make.ModuleMaker - Compilation problems 
+2021-07-21 14:37:25,107 [   6780]  ERROR -                    JavaCompile - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:37:25,108 [   6781]  ERROR - jetbrains.mps.make.ModuleMaker - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:37:25,109 [   6782]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:37:25,109 [   6782]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:37:25,109 [   6782]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:37:25,109 [   6782]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:37:25,109 [   6782]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:37:25,109 [   6782]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:37:25,109 [   6782]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:37:25,109 [   6782]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:37:25,109 [   6782]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:37:25,110 [   6783]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:37:25,110 [   6783]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:37:25,110 [   6783]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:37:25,110 [   6783]   INFO - jetbrains.mps.make.ModuleMaker - Modules: l2;
+Classpath: com.sun.tools.javac.file.JavacFileManager$$Lambda$350/0x00000008007af440@480318c2
+ 
+2021-07-21 14:37:25,150 [   6823]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,031 s 
+2021-07-21 14:37:25,172 [   6845]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:39:04,103 [      0]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/dvk1.plugin.zip/PluginDependenciesSample-d-1 
+2021-07-21 14:39:04,104 [      1]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/l1.plugin.zip/PluginDependenciesSample-l-1 
+2021-07-21 14:39:04,104 [      1]   WARN - jetbrains.mps.tool.environment.EnvironmentConfig - Can't load plugin. Plugin file or folder was not found: /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/build/tmp/PluginDependenciesSample2/deps/PluginDependenciesSample1/sln1.plugin.zip/PluginDependenciesSample-s-1 
+2021-07-21 14:39:04,104 [      1]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating MPS environment 
+2021-07-21 14:39:04,225 [    122]  ERROR - jetbrains.mps.tool.environment.EnvironmentBase - The macro 'samples_home' to non-existent location 
+2021-07-21 14:39:04,235 [    132]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Initializing libraries 
+2021-07-21 14:39:04,263 [    160]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:39:04,263 [    160]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:39:04,269 [    166]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 172 libraries 
+2021-07-21 14:39:06,219 [   2116]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished 
+2021-07-21 14:39:07,177 [   3074]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,954 s 
+2021-07-21 14:39:07,205 [   3102]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:39:07,505 [   3402]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating an empty project 
+2021-07-21 14:39:07,507 [   3404]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Opening a new project 
+2021-07-21 14:39:07,510 [   3407]   INFO - jetbrains.mps.project.ProjectModuleLoader - Loading modules... 
+2021-07-21 14:39:07,511 [   3408]   INFO - jetbrains.mps.project.ProjectModuleLoader - Modules are loaded: 0 new; 0 removed 
+2021-07-21 14:39:07,511 [   3408]   INFO - jetbrains.mps.project.ProjectBase - Project 'mpstemp14784885182710966983' is opened 
+2021-07-21 14:39:07,598 [   3495]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,051 s 
+2021-07-21 14:39:07,617 [   3514]   WARN - jetbrains.mps.classloading.ModulesWatcher - 1 modules are marked as invalid roots for class loading out of 252 modules [totally in the repository]: 
+2021-07-21 14:39:07,617 [   3514]   WARN - jetbrains.mps.classloading.ModulesWatcher - sln2 [solution] has got an absent dependency problem and therefore was marked invalid for class loading: The dependency in sln2 [solution] cannot be resolved {Default} a6baa04a-4917-4b7b-b102-369cd8706f4a(sln1) 
+2021-07-21 14:39:07,617 [   3514]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 1 modules are marked invalid for class loading: 
+2021-07-21 14:39:07,617 [   3514]   INFO - jetbrains.mps.classloading.ModulesWatcher - 667bdade-b140-4390-b445-fb31fe457859(sln2) 
+2021-07-21 14:39:07,916 [   3813]   WARN - jetbrains.mps.smodel.SLanguageHierarchy - The language 'l1' is not deployed 
+2021-07-21 14:39:09,726 [   5623]  ERROR - jetbrains.mps.generator.impl.plan.GenerationPlan - Model l2.behavior uses language l1 which is missing (likely is not yet generated or is a bootstrap dependency) 
+2021-07-21 14:39:10,009 [   5906]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:39:10,010 [   5907]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:39:10,327 [   6224]   WARN - jetbrains.mps.text.impl.TextGenRegistry - No language for concept l1.structure.NoOp, while looking for textgen descriptor. 
+2021-07-21 14:39:10,447 [   6344]   INFO - jetbrains.mps.make.ModuleMaker - Cycle #1: [[l2]] 
+2021-07-21 14:39:10,487 [   6384]   INFO - jetbrains.mps.make.ModuleMaker - Compiler in use: JavacTool 
+2021-07-21 14:39:10,811 [   6708]  ERROR -                    JavaCompile - Compilation problems 
+2021-07-21 14:39:10,811 [   6708]  ERROR - jetbrains.mps.make.ModuleMaker - Compilation problems 
+2021-07-21 14:39:10,815 [   6712]  ERROR -                    JavaCompile - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:39:10,815 [   6712]  ERROR - jetbrains.mps.make.ModuleMaker - illegal start of type (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:20]] 
+2021-07-21 14:39:10,816 [   6713]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:39:10,816 [   6713]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:32]] 
+2021-07-21 14:39:10,816 [   6713]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:39:10,816 [   6713]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:33]] 
+2021-07-21 14:39:10,816 [   6713]  ERROR -                    JavaCompile - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:39:10,816 [   6713]  ERROR - jetbrains.mps.make.ModuleMaker - ';' expected (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:38]] 
+2021-07-21 14:39:10,816 [   6713]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:39:10,816 [   6713]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:43]] 
+2021-07-21 14:39:10,816 [   6713]  ERROR -                    JavaCompile - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:39:10,816 [   6713]  ERROR - jetbrains.mps.make.ModuleMaker - unclosed character literal (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:61]] 
+2021-07-21 14:39:10,817 [   6714]  ERROR -                    JavaCompile - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:39:10,817 [   6714]  ERROR - jetbrains.mps.make.ModuleMaker - not a statement (/Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java:7) [hint object /Users/kemalsoysal/MPSProjects/PluginDependenciesSample/languages/l2/source_gen/l2/behavior/Funny.java[7:56]] 
+2021-07-21 14:39:10,817 [   6714]   INFO - jetbrains.mps.make.ModuleMaker - Modules: l2;
+Classpath: com.sun.tools.javac.file.JavacFileManager$$Lambda$350/0x00000008007af440@74ca0511
+ 
+2021-07-21 14:39:10,868 [   6765]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,042 s 
+2021-07-21 14:39:10,888 [   6785]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:45:11,921 [      0]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating MPS environment 
+2021-07-21 14:45:12,041 [    120]  ERROR - jetbrains.mps.tool.environment.EnvironmentBase - The macro 'samples_home' to non-existent location 
+2021-07-21 14:45:12,051 [    130]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Initializing libraries 
+2021-07-21 14:45:12,075 [    154]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:45:12,075 [    154]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:45:12,081 [    160]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 173 libraries 
+2021-07-21 14:45:13,982 [   2061]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished 
+2021-07-21 14:45:14,914 [   2993]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,927 s 
+2021-07-21 14:45:14,942 [   3021]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:45:15,229 [   3308]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating an empty project 
+2021-07-21 14:45:15,231 [   3310]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Opening a new project 
+2021-07-21 14:45:15,235 [   3314]   INFO - jetbrains.mps.project.ProjectModuleLoader - Loading modules... 
+2021-07-21 14:45:15,235 [   3314]   INFO - jetbrains.mps.project.ProjectModuleLoader - Modules are loaded: 0 new; 0 removed 
+2021-07-21 14:45:15,235 [   3314]   INFO - jetbrains.mps.project.ProjectBase - Project 'mpstemp17902321213818607151' is opened 
+2021-07-21 14:45:15,322 [   3401]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,051 s 
+2021-07-21 14:45:15,341 [   3420]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:45:18,889 [   6968]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:45:18,890 [   6969]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:45:19,334 [   7413]   INFO - jetbrains.mps.internal.make.runtime.script.Script - No input. Skipping optional target 'jetbrains.mps.make.facets.ReloadClasses.reloadClasses'. 
+2021-07-21 14:45:20,185 [   8264]   INFO - jetbrains.mps.internal.make.runtime.script.Script - No input. Skipping optional target 'jetbrains.mps.make.facets.ReloadClasses.reloadClasses'. 
+2021-07-21 14:45:20,219 [   8298]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,027 s 
+2021-07-21 14:45:20,257 [   8336]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:45:30,325 [  18404]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,002 s 
+2021-07-21 14:45:30,325 [  18404]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:58:02,637 [      0]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating MPS environment 
+2021-07-21 14:58:02,751 [    114]  ERROR - jetbrains.mps.tool.environment.EnvironmentBase - The macro 'samples_home' to non-existent location 
+2021-07-21 14:58:02,759 [    122]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Initializing libraries 
+2021-07-21 14:58:02,781 [    144]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:58:02,781 [    144]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:58:02,787 [    150]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 173 libraries 
+2021-07-21 14:58:04,631 [   1994]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished 
+2021-07-21 14:58:05,479 [   2842]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,843 s 
+2021-07-21 14:58:05,505 [   2868]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:58:05,794 [   3157]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating an empty project 
+2021-07-21 14:58:05,796 [   3159]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Opening a new project 
+2021-07-21 14:58:05,800 [   3163]   INFO - jetbrains.mps.project.ProjectModuleLoader - Loading modules... 
+2021-07-21 14:58:05,801 [   3164]   INFO - jetbrains.mps.project.ProjectModuleLoader - Modules are loaded: 0 new; 0 removed 
+2021-07-21 14:58:05,801 [   3164]   INFO - jetbrains.mps.project.ProjectBase - Project 'mpstemp15937982247224141432' is opened 
+2021-07-21 14:58:05,911 [   3274]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,063 s 
+2021-07-21 14:58:05,935 [   3298]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:58:09,497 [   6860]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:58:09,498 [   6861]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:58:09,960 [   7323]   INFO - jetbrains.mps.internal.make.runtime.script.Script - No input. Skipping optional target 'jetbrains.mps.make.facets.ReloadClasses.reloadClasses'. 
+2021-07-21 14:58:10,843 [   8206]   INFO - jetbrains.mps.internal.make.runtime.script.Script - No input. Skipping optional target 'jetbrains.mps.make.facets.ReloadClasses.reloadClasses'. 
+2021-07-21 14:58:10,874 [   8237]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,024 s 
+2021-07-21 14:58:10,888 [   8251]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:58:20,951 [  18314]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,001 s 
+2021-07-21 14:58:20,951 [  18314]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:58:33,587 [      0]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating MPS environment 
+2021-07-21 14:58:33,702 [    115]  ERROR - jetbrains.mps.tool.environment.EnvironmentBase - The macro 'samples_home' to non-existent location 
+2021-07-21 14:58:33,709 [    122]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Initializing libraries 
+2021-07-21 14:58:33,732 [    145]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:58:33,732 [    145]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:58:33,739 [    152]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 175 libraries 
+2021-07-21 14:58:35,655 [   2068]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished 
+2021-07-21 14:58:36,643 [   3056]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,984 s 
+2021-07-21 14:58:36,670 [   3083]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:58:36,972 [   3385]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating an empty project 
+2021-07-21 14:58:36,974 [   3387]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Opening a new project 
+2021-07-21 14:58:36,978 [   3391]   INFO - jetbrains.mps.project.ProjectModuleLoader - Loading modules... 
+2021-07-21 14:58:36,978 [   3391]   INFO - jetbrains.mps.project.ProjectModuleLoader - Modules are loaded: 0 new; 0 removed 
+2021-07-21 14:58:36,979 [   3392]   INFO - jetbrains.mps.project.ProjectBase - Project 'mpstemp6871324043898927132' is opened 
+2021-07-21 14:58:37,064 [   3477]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,049 s 
+2021-07-21 14:58:37,083 [   3496]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:58:39,417 [   5830]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:58:39,418 [   5831]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 14:58:39,885 [   6298]   INFO - jetbrains.mps.make.ModuleMaker - Cycle #1: [[l2]] 
+2021-07-21 14:58:39,928 [   6341]   INFO - jetbrains.mps.make.ModuleMaker - Compiler in use: JavacTool 
+2021-07-21 14:58:40,723 [   7136]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,035 s 
+2021-07-21 14:58:40,762 [   7175]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:58:40,769 [   7182]   INFO - jetbrains.mps.classloading.ClassLoaderManager - Reloaded 2 module(s) in 0,081 s 
+2021-07-21 14:58:41,121 [   7534]   INFO - jetbrains.mps.internal.make.runtime.script.Script - No input. Skipping optional target 'jetbrains.mps.make.facets.ReloadClasses.reloadClasses'. 
+2021-07-21 14:58:41,154 [   7567]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,028 s 
+2021-07-21 14:58:41,174 [   7587]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:58:51,240 [  17653]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,002 s 
+2021-07-21 14:58:51,241 [  17654]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:59:28,574 [      0]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating MPS environment 
+2021-07-21 14:59:28,697 [    123]  ERROR - jetbrains.mps.tool.environment.EnvironmentBase - The macro 'samples_home' to non-existent location 
+2021-07-21 14:59:28,706 [    132]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Initializing libraries 
+2021-07-21 14:59:28,724 [    150]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:59:28,725 [    151]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 14:59:28,730 [    156]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 134 libraries 
+2021-07-21 14:59:30,556 [   1982]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished 
+2021-07-21 14:59:31,598 [   3024]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 1,035 s 
+2021-07-21 14:59:31,639 [   3065]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:59:31,913 [   3339]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating an empty project 
+2021-07-21 14:59:31,914 [   3340]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Opening a new project 
+2021-07-21 14:59:31,918 [   3344]   INFO - jetbrains.mps.project.ProjectModuleLoader - Loading modules... 
+2021-07-21 14:59:31,919 [   3345]   INFO - jetbrains.mps.project.ProjectModuleLoader - Modules are loaded: 0 new; 0 removed 
+2021-07-21 14:59:31,919 [   3345]   INFO - jetbrains.mps.project.ProjectBase - Project 'mpstemp13389825063907967901' is opened 
+2021-07-21 14:59:31,970 [   3396]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,039 s 
+2021-07-21 14:59:31,989 [   3415]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:59:33,962 [   5388]   INFO - jetbrains.mps.internal.make.runtime.script.Script - No input. Skipping optional target 'jetbrains.mps.make.facets.ReloadClasses.reloadClasses'. 
+2021-07-21 14:59:34,006 [   5432]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,034 s 
+2021-07-21 14:59:34,052 [   5478]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 14:59:44,119 [  15545]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,002 s 
+2021-07-21 14:59:44,119 [  15545]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 15:14:41,766 [      0]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating MPS environment 
+2021-07-21 15:14:41,893 [    127]  ERROR - jetbrains.mps.tool.environment.EnvironmentBase - The macro 'samples_home' to non-existent location 
+2021-07-21 15:14:41,903 [    137]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Initializing libraries 
+2021-07-21 15:14:41,928 [    162]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 15:14:41,928 [    162]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor 
+2021-07-21 15:14:41,935 [    169]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 173 libraries 
+2021-07-21 15:14:43,852 [   2086]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished 
+2021-07-21 15:14:44,793 [   3027]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,936 s 
+2021-07-21 15:14:44,821 [   3055]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 15:14:45,124 [   3358]   INFO - jetbrains.mps.tool.environment.MpsEnvironment - Creating an empty project 
+2021-07-21 15:14:45,126 [   3360]   INFO - jetbrains.mps.tool.environment.EnvironmentBase - Opening a new project 
+2021-07-21 15:14:45,129 [   3363]   INFO - jetbrains.mps.project.ProjectModuleLoader - Loading modules... 
+2021-07-21 15:14:45,130 [   3364]   INFO - jetbrains.mps.project.ProjectModuleLoader - Modules are loaded: 0 new; 0 removed 
+2021-07-21 15:14:45,130 [   3364]   INFO - jetbrains.mps.project.ProjectBase - Project 'mpstemp14764862691702399967' is opened 
+2021-07-21 15:14:45,213 [   3447]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,046 s 
+2021-07-21 15:14:45,230 [   3464]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 15:14:48,604 [   6838]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 15:14:48,606 [   6840]   INFO - jetbrains.mps.generator.impl.plan.GenerationPlan - No checkpoint registry file found 
+2021-07-21 15:14:49,036 [   7270]   INFO - jetbrains.mps.internal.make.runtime.script.Script - No input. Skipping optional target 'jetbrains.mps.make.facets.ReloadClasses.reloadClasses'. 
+2021-07-21 15:14:49,980 [   8214]   INFO - jetbrains.mps.internal.make.runtime.script.Script - No input. Skipping optional target 'jetbrains.mps.make.facets.ReloadClasses.reloadClasses'. 
+2021-07-21 15:14:50,016 [   8250]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,029 s 
+2021-07-21 15:14:50,037 [   8271]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 
+2021-07-21 15:15:00,099 [  18333]   INFO - jetbrains.mps.classloading.ModuleUpdater - Classloading refresh took 0,002 s 
+2021-07-21 15:15:00,099 [  18333]   INFO - jetbrains.mps.classloading.ModulesWatcher - Totally 0 modules are marked invalid for class loading. 

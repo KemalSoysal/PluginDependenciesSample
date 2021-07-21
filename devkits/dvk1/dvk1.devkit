@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dev-kit name="dvk1" uuid="c456ee9c-5828-4db1-aa8a-c30040c96c31">
+  <exported-language name="03db4d8e-1771-4d0f-ad98-786988d314d3(l1)" />
+  <exported-solutions>
+    <exported-solution>a6baa04a-4917-4b7b-b102-369cd8706f4a(sln1)</exported-solution>
+  </exported-solutions>
+</dev-kit>
+

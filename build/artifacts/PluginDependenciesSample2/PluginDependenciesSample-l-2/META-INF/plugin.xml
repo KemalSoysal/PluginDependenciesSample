@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idea-plugin>
+  <id>l2.plugin</id>
+  <name>PluginDependenciesSample Language 2</name>
+  <version>1.0</version>
+  <depends>dvk1.plugin</depends>
+  <depends>sln1.plugin</depends>
+  <depends>l1.plugin</depends>
+  <depends>jetbrains.mps.core</depends>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <mps.LanguageLibrary dir="/languages" />
+  </extensions>
+</idea-plugin>

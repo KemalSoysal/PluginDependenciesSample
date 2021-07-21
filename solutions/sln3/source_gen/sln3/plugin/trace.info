@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:c7d5b9dd-a05f-4be2-bc73-f2e16994cc67/3751132065236767060:jetbrains.mps.baseLanguage.lightweightdsl.structure.MethodInstance" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="ExtensionDescriptor.java">
+      <unit at="9,0,18,0" name="sln3.plugin.ExtensionDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:c83dd3c4-83f1-49e0-9ac6-740acbc6c036(sln3.plugin)/375881913611910807">
+    <file name="Sln3ExtensionImplementation.java">
+      <node id="375881913611910807" at="8,40,9,33" concept="3" />
+      <node id="375881913612348939" at="13,23,14,44" concept="2" />
+      <node id="375881913611910807" at="8,0,11,0" concept="1" trace="Sln3ExtensionImplementation#()V" />
+      <node id="375881913611910813" at="13,0,16,0" concept="0" trace="get#()Ljava/lang/String;" />
+      <scope id="375881913611910807" at="8,40,9,33" />
+      <scope id="375881913611910817" at="13,23,14,44" />
+      <scope id="375881913611910807" at="8,0,11,0" />
+      <scope id="375881913611910813" at="13,0,16,0" />
+      <unit id="375881913611910807" at="7,0,17,0" name="sln3.plugin.Sln3ExtensionImplementation" />
+    </file>
+  </root>
+</debug-info>
+

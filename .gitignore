@@ -1,0 +1,9 @@
+# Project exclude paths
+/languages/l1/classes_gen/
+/languages/l1/generator/classes_gen/
+/languages/l2/classes_gen/
+/languages/l2/generator/classes_gen/
+/solutions/PluginDependenciesSample.build/classes_gen/
+/solutions/sln1/classes_gen/
+/solutions/sln2/classes_gen/
+/solutions/sln3/classes_gen/

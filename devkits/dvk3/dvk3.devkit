@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dev-kit name="dvk3" uuid="fec8838a-b419-4649-8837-e1bb400ead43">
+  <extendedDevKits>
+    <extendedDevKit>92739889-d60a-4dbc-ade1-ee231cd97033(dvk2)</extendedDevKit>
+  </extendedDevKits>
+  <exported-solutions>
+    <exported-solution>58c48505-c265-4e97-94d1-da53d913fc13(sln3)</exported-solution>
+  </exported-solutions>
+</dev-kit>
+

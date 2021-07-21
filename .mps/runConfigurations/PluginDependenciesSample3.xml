@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PluginDependenciesSample3" type="Build Script" factoryName="Build Script">
+    <myNodePointer>
+      <MyState>
+        <option name="myNodePointer" value="r:b033cfee-a100-4b5d-9a4a-d3c72631e54e(PluginDependenciesSample.build3)/375881913613670623" />
+        <option name="myNodeText" value="PluginDependenciesSample.build3.PluginDependenciesSample3" />
+      </MyState>
+    </myNodePointer>
+    <mySettings>
+      <MyState>
+        <option name="myUseOtherAntLocation" value="false" />
+        <option name="myOtherAntLocation" value="" />
+        <option name="myAntOptions" value="clean generate assemble" />
+      </MyState>
+    </mySettings>
+    <method v="2">
+      <option name="jetbrains.mps.execution.configurations.pluginSolution.plugin.MakeNodePointers_BeforeTask" enabled="true" />
+    </method>
+  </configuration>
+</component>

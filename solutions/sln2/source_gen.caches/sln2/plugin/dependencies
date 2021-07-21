@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="sln2.plugin.ExtensionDescriptor">
+    <classNode dependClassName="java.lang.Iterable" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="jetbrains.mps.smodel.structure.Extension" />
+    <classNode dependClassName="sln2.plugin.Sln2ExtensionImplementation" />
+    <classNode extendsClassName="jetbrains.mps.smodel.structure.DefaultExtensionDescriptor" />
+  </dependency>
+  <dependency className="sln2.plugin.Sln2ExtensionImplementation">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.structure.Extension" />
+  </dependency>
+</dependenciesRoot>
+

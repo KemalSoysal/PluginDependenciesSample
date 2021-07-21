@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/devkits/dvk1/dvk1.devkit" folder="" />
+      <modulePath path="$PROJECT_DIR$/devkits/dvk2/dvk2.devkit" folder="" />
+      <modulePath path="$PROJECT_DIR$/devkits/dvk3/dvk3.devkit" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/l1/l1.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/l2/l2.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/PluginDependenciesSample.build/PluginDependenciesSample.build.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/sln1/sln1.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/sln2/sln2.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/sln3/sln3.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
